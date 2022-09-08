@@ -1,0 +1,34 @@
+task,action,length,time,success
+1,"['PickUp', 'bacon']",4,14.828882932662964,True
+1,"['PutOn', 'bacon', 'pan', 'None']",4,17.3900408744812,True
+1,"['PickUp', 'pan']",4,14.08791208267212,True
+1,"['Place', 'pan', 'stove', 'cookware']",4,19.494147062301636,True
+1,"['Activate', 'stove', 'bacon']",0,0.03932309150695801,True
+2,"['PickUp', 'tomato']",4,16.68050479888916,True
+2,"['Place', 'tomato', 'cutting_board', 'ingredient']",4,18.177151203155518,True
+2,"['PickUp', 'knife']",4,15.490156888961792,True
+2,"['Chop', 'tomato', 'knife']",6,21.289801836013794,True
+3,"['Place', 'knife', 'table', 'tool']",4,17.780663013458252,True
+3,"['PickUp', 'mayonnaise_bottle']",4,16.787482023239136,True
+3,"['Pour', 'mayonnaise_bottle', 'bread1', 'mayonnaise']",3,20.290215015411377,True
+4,"['Place', 'mayonnaise_bottle', 'table', 'ing_bottle']",4,19.559643983840942,True
+4,"['PickUp', 'ham']",4,16.88957118988037,True
+4,"['PutOn', 'ham', 'bread1', 'None']",4,16.388301849365234,True
+5,"['PickUp', 'turkey']",4,16.488215923309326,True
+5,"['PutOn', 'turkey', 'ham', 'None']",4,17.58856987953186,True
+6,"['PickUp', 'cheese']",4,15.681539058685303,True
+6,"['PutOn', 'cheese', 'turkey', 'None']",4,16.382825136184692,True
+7,"['PickUp', 'mayonnaise_bottle']",4,18.28022789955139,True
+7,"['Pour', 'mayonnaise_bottle', 'bread2', 'mayonnaise']",3,23.08983302116394,True
+8,"['Place', 'mayonnaise_bottle', 'table', 'ing_bottle']",4,19.579782962799072,True
+8,"['PickUp', 'bread2']",4,18.68610382080078,True
+8,"['PutOn', 'bread2', 'cheese', 'None']",4,17.78923201560974,True
+9,"['PickUp', 'bacon']",4,17.766438007354736,True
+9,"['PutOn', 'bacon', 'bread2', 'None']",4,19.578423023223877,True
+10,"['PickUp', 'lettuce']",4,13.478071928024292,True
+10,"['PutOn', 'lettuce', 'bacon', 'None']",4,15.290357828140259,True
+11,"['PickUp', 'scooper']",4,16.392319917678833,True
+11,"['Scoop', 'chopped_tomato', 'lettuce', 'scooper']",7,38.10248613357544,True
+12,"['Place', 'scooper', 'table', 'tool']",4,19.230772972106934,True
+12,"['PickUp', 'bread3']",4,16.689379930496216,True
+12,"['PutOn', 'bread3', 'chopped_tomato', 'sandwich']",4,16.28650999069214,True
